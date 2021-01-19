@@ -1,2 +1,2 @@
-# Gaussian-Process-Latent-Variable-Method
-Implementing a GPLVM
+# Advance-Machine-Learning-Project
+Course project for DD2434
